@@ -1,0 +1,8 @@
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.csproj.AssemblyReference.cache
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.AssemblyInfoInputs.cache
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.AssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Inteli\Documents\GitHub\Metricas\obj\Debug\net8.0\Metricas.sourcelink.json
